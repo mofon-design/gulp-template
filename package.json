@@ -4,7 +4,7 @@
   "description": "A simple template containing gulp compilation configuration and dot files",
   "license": "MIT",
   "main": "index.umd.js",
-  "module": "es/index.js",
+  "esnext": "es/index.js",
   "types": "src/index.ts",
   "typings": "typings.d.ts",
   "scripts": {
